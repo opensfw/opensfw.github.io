@@ -1,5 +1,9 @@
-# Open Spec for Frameworks 
+---
+title: About Project
+layout: home
+---
 
+# Open Spec for Frameworks (OpenSFW)
 
 A standard specification for writing frameworks has become commonplace in today's organizations. The primary motivation behind this standardization is to enhance interoperability during integrations. Different organizations have implemented various standardization practices, some of which are outlined below:
 

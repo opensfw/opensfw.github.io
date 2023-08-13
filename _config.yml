@@ -1,0 +1,8 @@
+title: Open Spec for Frameworks
+description: A specification for how applications should be built to achieve better interoperability, thus enhancing performance, scalability, sustainability, etc.
+theme: just-the-docs
+
+url: https://opensfw.github.io
+
+aux_links:
+  Template Repository: https://github.com/opensfw/opensfw.github.io
