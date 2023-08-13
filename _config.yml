@@ -8,6 +8,15 @@ url: https://opensfw.github.io
 logo: "/assets/images/opensfw-logo-with-text.png"
 favicon_ico: "/assets/images/favicon.ico"
 
-aux_links:
-  Template Repository: https://github.com/opensfw/opensfw.github.io
+
+nav_external_links:
+  - title: Join the initiative
+    url: https://forms.gle/Dqck1V3TdCDgifpy7
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Follow on LinkedIn
+    url: https://www.linkedin.com/company/opensfw/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Follow on Github
+    url: https://www.github.com/opensfw
+    hide_icon: false # set to true to hide the external link icon - defaults to false
 
