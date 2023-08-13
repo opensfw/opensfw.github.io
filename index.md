@@ -1,6 +1,7 @@
 ---
-title: About Project
-layout: home
+title: About OpenSFW
+layout: about
+nav_order: 1
 ---
 
 # Open Spec for Frameworks (OpenSFW)
